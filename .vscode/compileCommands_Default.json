@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\Source\\ASpectrumUnbound\\ASpectrumUnbound.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\.vscode\\compileCommands_Default\\ASpectrumUnbound.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\Source\\ASpectrumUnbound\\ASpectrumUnbound.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\.vscode\\compileCommands_Default\\ASpectrumUnbound.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\Source\\ASpectrumUnbound\\ASpectrumUnbound.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\.vscode\\compileCommands_Default\\ASpectrumUnbound.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\Source\\ASpectrumUnbound\\ASpectrumUnboundCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\.vscode\\compileCommands_Default\\ASpectrumUnbound.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\Source\\ASpectrumUnbound\\ASpectrumUnboundCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\.vscode\\compileCommands_Default\\ASpectrumUnbound.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\Source\\ASpectrumUnbound\\ASpectrumUnboundGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\.vscode\\compileCommands_Default\\ASpectrumUnbound.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\Source\\ASpectrumUnbound\\ASpectrumUnboundGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\BuildTools\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe",
+			"@C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\.vscode\\compileCommands_Default\\ASpectrumUnbound.255.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
