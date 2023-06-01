@@ -1,0 +1,15 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\intermediate\\build\\win64\\unrealeditor\\inc\\aspectrumunbound\\uht\\overstimcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\intermediate\\build\\win64\\aspectrumunboundeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\intermediate\\build\\win64\\unrealeditor\\development\\aspectrumunbound\\definitions.aspectrumunbound.h",
+            "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\source\\aspectrumunbound\\overstimcomponent.h",
+            "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\intermediate\\build\\win64\\unrealeditor\\inc\\aspectrumunbound\\uht\\overstimcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

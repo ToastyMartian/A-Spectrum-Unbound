@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\intermediate\\build\\win64\\unrealgame\\inc\\aspectrumunbound\\uht\\aspectrumunbound.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\intermediate\\build\\win64\\aspectrumunbound\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\intermediate\\build\\win64\\unrealgame\\shipping\\aspectrumunbound\\definitions.aspectrumunbound.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

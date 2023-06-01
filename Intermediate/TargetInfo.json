@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ASpectrumUnbound",
+			"Path": "C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\Source\\ASpectrumUnbound.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ASpectrumUnboundEditor",
+			"Path": "C:\\Users\\Celine\\Documents\\Unreal Projects\\ASpectrumUnbound\\Source\\ASpectrumUnboundEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

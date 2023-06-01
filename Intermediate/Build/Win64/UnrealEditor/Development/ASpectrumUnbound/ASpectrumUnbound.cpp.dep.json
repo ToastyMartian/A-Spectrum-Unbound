@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\source\\aspectrumunbound\\aspectrumunbound.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\intermediate\\build\\win64\\aspectrumunboundeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\intermediate\\build\\win64\\unrealeditor\\development\\aspectrumunbound\\definitions.aspectrumunbound.h",
+            "c:\\users\\celine\\documents\\unreal projects\\aspectrumunbound\\source\\aspectrumunbound\\aspectrumunbound.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

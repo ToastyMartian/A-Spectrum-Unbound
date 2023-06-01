@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Maps/BlockPrototypeMap.umap",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/BP_OverstimTrigger.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/BPC_OverstimMeter.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/BP_SafeSpaceTrigger.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/BPI_Refs.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/W_OverstimText.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/ItemPickup/BP_Item.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/ItemPickup/BPI_Items.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/W_OverstimBar.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/Widgets/W_OverstimText.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/Widgets/W_ObjectiveText.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Blueprints/Widgets/W_OverstimBar.uasset",
+				"C:/Users/Celine/Documents/Unreal Projects/ASpectrumUnbound/Content/ThirdPerson/Maps/BlockPrototype.umap"
+			]
+		}
+	]
+}
